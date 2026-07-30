@@ -211,3 +211,6 @@ Collects:
 - Consistent spacing
 - Hover-ready buttons
 - Mobile optimization
+## Author
+
+Vinayak S
