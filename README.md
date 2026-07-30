@@ -159,3 +159,55 @@ Collects:
 ```bash
 npm run build
 ```
+## Components Overview
+
+### Navbar Component
+Provides navigation links for:
+- Home
+- Hotels
+- Bookings
+- Profile
+
+### SearchBar Component
+Allows users to:
+- Enter destination
+- Select check-in date
+- Select check-out date
+- Enter guest count
+- Search available hotels
+
+### Dashboard Component
+Displays:
+- Total Hotels
+- Available Rooms
+- Average Rating
+
+### HotelList Component
+Renders a list of hotel cards using reusable components.
+
+### HotelCard Component
+Displays:
+- Hotel Image
+- Hotel Name
+- Location
+- Price Per Night
+- Rating
+- Booking Button
+
+### BookingForm Component
+Collects:
+- User Name
+- Email Address
+- Number of Guests
+- Room Type
+- Booking Request
+
+## Styling Features
+
+- Modern card-based layout
+- Flexbox and CSS Grid
+- Responsive design
+- Clean typography
+- Consistent spacing
+- Hover-ready buttons
+- Mobile optimization
