@@ -47,3 +47,63 @@ The application includes:
 - Responsive hotel grid
 - Adaptive navigation bar
 - Flexible dashboard cards
+
+- ## Tech Stack
+
+### Frontend
+- React
+- JavaScript (ES6+)
+- CSS3
+
+### Build Tool
+- Vite
+
+## Project Structure
+
+```text
+src/
+│
+├── components/
+│   ├── Navbar.jsx
+│   ├── SearchBar.jsx
+│   ├── Dashboard.jsx
+│   ├── HotelList.jsx
+│   ├── HotelCard.jsx
+│   └── BookingForm.jsx
+│
+├── App.jsx
+├── App.css
+└── main.jsx
+```
+
+## Installation
+
+### Clone the Repository
+
+```bash
+git clone <repository-url>
+```
+
+### Navigate to the Project Folder
+
+```bash
+cd hotel-booking-ui
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run the Development Server
+
+```bash
+npm run dev
+```
+
+### Build for Production
+
+```bash
+npm run build
+```
